@@ -1,4 +1,4 @@
-# Acid Victim Management System
+# AidNexus  -Acid Victim Management System
 
 A database project developed for the **Advanced Database Management System (ADMS)** course.
 
